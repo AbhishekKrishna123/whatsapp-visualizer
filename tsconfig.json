@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2016",
+        "jsx": "preserve",
+        "strictFunctionTypes": true,
+        "sourceMap": true,
+        "outDir": "output",
+        "types": ["node"]
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
