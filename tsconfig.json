@@ -5,7 +5,7 @@
         "jsx": "preserve",
         "strictFunctionTypes": true,
         "sourceMap": true,
-        "outDir": "output",
+        "outDir": "out",
         "types": ["node"]
     },
     "exclude": [
